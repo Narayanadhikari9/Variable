@@ -1,0 +1,19 @@
+.header {
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  text-align: center;
+}
+
+.main {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  margin: 1rem;
+}
+
+.footer {
+  background-color: skyblue;
+  color: brown;
+  text-align: center;
+}
